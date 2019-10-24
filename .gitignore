@@ -1,2 +1,3 @@
 /docker/auth.env
 /.ipynb_checkpoints
+/cs*.csv
