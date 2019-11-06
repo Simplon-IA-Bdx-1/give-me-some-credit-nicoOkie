@@ -4,3 +4,4 @@ matplotlib
 rise
 jupyterthemes
 jupyter_contrib_nbextensions
+autopep8
